@@ -1189,25 +1189,25 @@
         <!--CEP versions-->
         <siddhi.version>3.0.3</siddhi.version>
 
-        <orbit.version.json>2.0.0.wso2v1</orbit.version.json>
+        <orbit.version.json>1.0.0.wso2v1</orbit.version.json>
         <carbon.p2.plugin.version>1.5.4</carbon.p2.plugin.version>
-        <tomcat.websocket.version>7.0.59</tomcat.websocket.version>
-        <orbit.version.axiom>1.2.11.wso2v9</orbit.version.axiom>
+        <tomcat.websocket.version>7.0.54</tomcat.websocket.version>
+        <orbit.version.axiom>1.2.11.wso2v5</orbit.version.axiom>
         <imp.pkg.version.range.axiom>[1.2.11.wso2v5, 1.3.0)</imp.pkg.version.range.axiom>
-        <orbit.version.axis2>1.6.1.wso2v15</orbit.version.axis2>
+        <orbit.version.axis2>1.6.1.wso2v11</orbit.version.axis2>
         <imp.pkg.version.range.axis2>[1.6.1.wso2v11, 1.7.0)</imp.pkg.version.range.axis2>
         <axis2-transports.version>1.1.0-wso2v13</axis2-transports.version>
         <neethi.osgi.version>2.0.4.wso2v4</neethi.osgi.version>
         <neethi.osgi.version.range>[2.0.4.wso2v4, 3.1.0)</neethi.osgi.version.range>
-        <rampart.wso2.version>1.6.1-wso2v16</rampart.wso2.version>
+        <rampart.wso2.version>1.6.1.wso2v14</rampart.wso2.version>
         <libthrift.wso2.version>0.8.0.wso2v1</libthrift.wso2.version>
         <libthrift.wso2.version.hector>0.7.0.wso2v2</libthrift.wso2.version.hector>
         <orbit.version.commons.lang>2.6.0.wso2v1</orbit.version.commons.lang>
-        <gson.version>2.4</gson.version>
-        <slf4j.version>1.7.5</slf4j.version>
+        <gson.version>2.3.1</gson.version>
+        <slf4j.version>1.7.12</slf4j.version>
         <geronimo-jms.version>1.1.1</geronimo-jms.version>
         <hector.wso2.version>1.1.4.wso2v1</hector.wso2.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.10</junit.version>
         <disruptor.version.range>[2.10.0,3.4)</disruptor.version.range>
         <disruptor.orbit.version>3.3.2.wso2v2</disruptor.orbit.version>
         <kafka.version>0.8.1</kafka.version>
@@ -1217,14 +1217,14 @@
         <apache.servicemix.version>4.0-m1</apache.servicemix.version>
         <!--<httpclient.wso2.version>4.2.5.wso2v1</httpclient.wso2.version>-->
         <jsonpath.version>0.9.1</jsonpath.version>
-        <jsonsmart.version>1.3</jsonsmart.version>
+        <jsonsmart.version>1.2</jsonsmart.version>
         <javax.websocket.version>1.0</javax.websocket.version>
         <snakeyaml.version>1.11</snakeyaml.version>
         <antlr.version>4.5</antlr.version>
-        <org.eclipse.osgi.version>3.9.1.v20130814-1242</org.eclipse.osgi.version>
-        <version.equinox.osgi.services>3.3.100.v20130513-1956</version.equinox.osgi.services>
+        <org.eclipse.osgi.version>3.7.0.v20110613</org.eclipse.osgi.version>
+        <version.equinox.osgi.services>3.3.100.v20120522-1822</version.equinox.osgi.services>
         <slf4j.wso2.version>1.5.10.wso2v1</slf4j.wso2.version>
-        <google.guava.version>18.0</google.guava.version>
+        <google.guava.version>15.0</google.guava.version>
         <commons.pool.version>1.5.6.wso2v1</commons.pool.version>
         <cassandra.thrift.wso2.version>1.2.13.wso2v4</cassandra.thrift.wso2.version>
         <xerces.xercesImpl.version>2.11.0</xerces.xercesImpl.version>
@@ -1233,8 +1233,8 @@
         <httpcore.httpcomponents.wso2.version>4.3.3.wso2v1</httpcore.httpcomponents.wso2.version>
         <apache.httpcore.version>4.3.3</apache.httpcore.version>
 
-        <javax.version>2.0.1</javax.version>
-        <cxf.version>3.1.1</cxf.version>
+        <javax.version>2.0</javax.version>
+        <cxf.version>2.6.1</cxf.version>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.scm.id>my-scm-server</project.scm.id>
@@ -1248,7 +1248,7 @@
         <clearspring.analytics.stream.version>2.2.0.wso2v1</clearspring.analytics.stream.version>
         <kyro.version>2.24.0</kyro.version>
         <akka.version>2.3.4-spark</akka.version>
-        <jackson.version>2.5.0</jackson.version>
+        <jackson.version>2.4.4</jackson.version>
         <jackson-annotations.version>2.4.4</jackson-annotations.version>
         <snappy.version>1.1.1.7</snappy.version>
         <org.jboss.netty.version>3.9.0.Final</org.jboss.netty.version>
@@ -1258,7 +1258,7 @@
         <commons-lang3.version>3.3.2</commons-lang3.version>
         <orbit.version.netty-all>4.0.23.wso2v1</orbit.version.netty-all>
         <compress.lzf.version>1.0.3</compress.lzf.version>
-        <jackson.version>2.5.0</jackson.version>
+        <jackson.version>2.4.4</jackson.version>
         <codahale.metrics.version>3.1.2</codahale.metrics.version>
         <scala.version>2.10.4</scala.version>
         <typesafe.orbit.version>1.2.1.wso2v1</typesafe.orbit.version>
@@ -1277,7 +1277,7 @@
         <jersey.version>1.9</jersey.version>
         <!-- Spark dependency versions end-->
 
-        <wsdl4j.wso2.version>1.6.2.wso2v4</wsdl4j.wso2.version>
+        <wsdl4j.wso2.version>1.6.2.wso2v2</wsdl4j.wso2.version>
         <org.smslib.version>3.4.5</org.smslib.version>
     </properties>
 
