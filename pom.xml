@@ -1199,7 +1199,7 @@
         <axis2-transports.version>1.1.0-wso2v13</axis2-transports.version>
         <neethi.osgi.version>2.0.4.wso2v4</neethi.osgi.version>
         <neethi.osgi.version.range>[2.0.4.wso2v4, 3.1.0)</neethi.osgi.version.range>
-        <rampart.wso2.version>1.6.1-wso2v16</rampart.wso2.version>
+        <rampart.wso2.version>1.6.1.wso2v16</rampart.wso2.version>
         <libthrift.wso2.version>0.8.0.wso2v1</libthrift.wso2.version>
         <libthrift.wso2.version.hector>0.7.0.wso2v2</libthrift.wso2.version.hector>
         <orbit.version.commons.lang>2.6.0.wso2v1</orbit.version.commons.lang>
@@ -1277,7 +1277,7 @@
         <jersey.version>1.9</jersey.version>
         <!-- Spark dependency versions end-->
 
-        <wsdl4j.wso2.version>1.6.2.wso2v4</wsdl4j.wso2.version>
+        <wsdl4j.wso2.version>1.6.2.wso2v2</wsdl4j.wso2.version>
         <org.smslib.version>3.4.5</org.smslib.version>
     </properties>
 
