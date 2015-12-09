@@ -63,7 +63,7 @@
                             <goal>p2-feature-gen</goal>
                         </goals>
                         <configuration>
-                            <id>org.wso2.carbon.databridge.datapublisher</id>
+                            <id>org.wso2.carbon.databridge.datapublisher.analytics-common</id>
                             <propertiesFile>../../etc/feature.properties</propertiesFile>
                             <importFeatures>
                                 <importFeatureDef>org.wso2.carbon.core:${carbon.kernel.version}

@@ -78,7 +78,7 @@
                             <goal>p2-feature-gen</goal>
                         </goals>
                         <configuration>
-                            <id>org.wso2.carbon.databridge.datareceiver</id>
+                            <id>org.wso2.carbon.databridge.datareceiver.analytics-common</id>
                             <propertiesFile>../../etc/feature.properties</propertiesFile>
                             <includedFeatures>
                                 <includedFeatureDef>
