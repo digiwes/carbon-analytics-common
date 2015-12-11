@@ -26,7 +26,7 @@
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>org.wso2.carbon.analytics.dashboard.feature</artifactId>
+    <artifactId>org.wso2.carbon.analytics.dashboard.analytics-common.feature</artifactId>
     <packaging>pom</packaging>
     <name>WSO2 Carbon - Analytics Dashboard Feature</name>
     <url>http://wso2.org</url>

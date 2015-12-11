@@ -32,13 +32,14 @@
     <url>http://wso2.org</url>
     <description>This feature contains the bundles required for Output WSO2Event Adapter functionality</description>
 
-    <dependencies>
+   <!-- <dependencies>
         <dependency>
             <groupId>org.wso2.carbon.analytics-common</groupId>
-            <artifactId>org.wso2.carbon.databridge.datapublisher.feature</artifactId>
+            <artifactId>org.wso2.carbon.databridge.datapublisher.analytics-common.feature</artifactId>
             <type>zip</type>
         </dependency>
     </dependencies>
+-->
 
     <build>
         <plugins>

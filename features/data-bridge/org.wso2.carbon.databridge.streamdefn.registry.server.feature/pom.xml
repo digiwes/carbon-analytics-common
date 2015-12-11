@@ -24,7 +24,7 @@
 	</parent>
 
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>org.wso2.carbon.databridge.streamdefn.registry.server.feature</artifactId>
+    <artifactId>org.wso2.carbon.databridge.streamdefn.registry.server.analytics-common.feature</artifactId>
     <packaging>pom</packaging>
     <name>WSO2 Carbon - Data Bridge - Registry Defn Storage Server Feature</name>
     <url>http://wso2.org</url>
@@ -53,7 +53,7 @@
 							<goal>p2-feature-gen</goal>
 						</goals>
 						<configuration>
-                            <id>org.wso2.carbon.databridge.streamdefn.registry.server</id>
+                            <id>org.wso2.carbon.databridge.streamdefn.registry.server.identity</id>
 							<propertiesFile>../../etc/feature.properties</propertiesFile>
 							<adviceFile>
 								<properties>
@@ -66,7 +66,7 @@
 							</bundles>
 							<importFeatures>
                                 <importFeatureDef>org.wso2.carbon.core.server:${carbon.kernel.version}</importFeatureDef>
-                                <importFeatureDef>org.wso2.carbon.databridge.core.server</importFeatureDef>
+                                <importFeatureDef>org.wso2.carbon.databridge.core.server.analytics-common</importFeatureDef>
 							</importFeatures>
 						</configuration>
 					</execution>
